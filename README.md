@@ -15,13 +15,15 @@
 
 ---
 
-### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedHosny157&show_icons=true&theme=radical)
+### 🛠 Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
 ### 📫 How to reach me
-- 📧 Email: [mohamedelgamel200715@gnail.com]
+- 📧 Email: [mohamedelgamel200715@gmail.com]
 - 💼 LinkedIn: [https://www.linkedin.com/in/mohammed-hosny-a72931392/]
 
 ---
